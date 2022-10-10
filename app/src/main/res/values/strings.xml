@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ChatProject</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="tab_text_1">Čety</string>
+    <string name="tab_text_2">Skupiny</string>
+    <string name="tab_text_3">Nastavenia</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="hint_username">Zadaj nové používateľské meno</string>
+    <string name="hint_password">Zadaj nové heslo</string>
+    <string name="hint_email">Zadaj nový email</string>
+</resources>
